@@ -25,4 +25,6 @@
         </div>
 
     </header>
+
+    <x-video />
 </div>
